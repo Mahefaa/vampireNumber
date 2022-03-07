@@ -1,0 +1,12 @@
+{
+  "name": "vampire-number",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "In order to use it: Install node V16.13.0\r then open this file on your IDE : I use VSCode so I have to run \"node vampire.js\" on it",
+  "main": "fanghunter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
